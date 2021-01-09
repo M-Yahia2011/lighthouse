@@ -3,7 +3,7 @@
 * Facenet
 > face comparing model
 
-## TO DO:
+## TO-DO:
 * Aging Model: 
 > enter an image of a person at some age make him younger or older
 
